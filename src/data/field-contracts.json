@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "field-001",
+    "kind": "text",
+    "behavior": "serialize",
+    "invariant": "text values serialize without changing stable field identity"
+  }
+]
