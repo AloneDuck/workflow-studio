@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "validation-002",
+    "rule": "required",
+    "input": "boundary",
+    "expectedIssue": "required-violation",
+    "visible": true
+  }
+]
