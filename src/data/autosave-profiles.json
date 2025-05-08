@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "autosave-003",
+    "strategy": "debounce",
+    "delayMs": 500,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
+  }
+]
