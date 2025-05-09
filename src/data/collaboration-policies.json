@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "collaboration-004",
+    "resolution": "accept-local",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.accept-local"
+  }
+]
