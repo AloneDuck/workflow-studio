@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "a11y-005",
+    "interaction": "field-selection",
+    "wcag": "3.3.1",
+    "expectation": "field-selection remains named, keyboard reachable, and observable"
+  }
+]
