@@ -4,5 +4,11 @@
     "kind": "text",
     "behavior": "serialize",
     "invariant": "text values serialize without changing stable field identity"
+  },
+  {
+    "id": "field-007",
+    "kind": "text",
+    "behavior": "validate",
+    "invariant": "text values validate without changing stable field identity"
   }
 ]
