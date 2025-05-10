@@ -5,5 +5,12 @@
     "delayMs": 500,
     "maxAttempts": 3,
     "blocksOnConflict": true
+  },
+  {
+    "id": "autosave-009",
+    "strategy": "coalesce",
+    "delayMs": 250,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
   }
 ]
