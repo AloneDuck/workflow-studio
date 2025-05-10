@@ -5,5 +5,12 @@
     "input": "boundary",
     "expectedIssue": "required-violation",
     "visible": true
+  },
+  {
+    "id": "validation-008",
+    "rule": "min-length",
+    "input": "boundary",
+    "expectedIssue": "min-length-violation",
+    "visible": true
   }
 ]
