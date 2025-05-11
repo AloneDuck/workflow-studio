@@ -4,5 +4,11 @@
     "resolution": "accept-local",
     "baseRevisionRequired": true,
     "auditEvent": "workflow.accept-local"
+  },
+  {
+    "id": "collaboration-010",
+    "resolution": "accept-remote",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.accept-remote"
   }
 ]
