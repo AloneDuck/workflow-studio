@@ -10,5 +10,11 @@
     "kind": "text",
     "behavior": "validate",
     "invariant": "text values validate without changing stable field identity"
+  },
+  {
+    "id": "field-013",
+    "kind": "text",
+    "behavior": "focus",
+    "invariant": "text values focus without changing stable field identity"
   }
 ]
