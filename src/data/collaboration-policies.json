@@ -10,5 +10,11 @@
     "resolution": "accept-remote",
     "baseRevisionRequired": true,
     "auditEvent": "workflow.accept-remote"
+  },
+  {
+    "id": "collaboration-016",
+    "resolution": "merge-independent",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.merge-independent"
   }
 ]
