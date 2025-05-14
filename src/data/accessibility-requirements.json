@@ -10,5 +10,11 @@
     "interaction": "field-reorder",
     "wcag": "3.3.1",
     "expectation": "field-reorder remains named, keyboard reachable, and observable"
+  },
+  {
+    "id": "a11y-017",
+    "interaction": "save-status",
+    "wcag": "3.3.1",
+    "expectation": "save-status remains named, keyboard reachable, and observable"
   }
 ]
