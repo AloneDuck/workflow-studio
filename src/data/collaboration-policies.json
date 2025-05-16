@@ -16,5 +16,11 @@
     "resolution": "merge-independent",
     "baseRevisionRequired": true,
     "auditEvent": "workflow.merge-independent"
+  },
+  {
+    "id": "collaboration-022",
+    "resolution": "flag-divergent",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.flag-divergent"
   }
 ]
