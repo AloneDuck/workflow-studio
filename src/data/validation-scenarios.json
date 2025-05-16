@@ -19,5 +19,12 @@
     "input": "boundary",
     "expectedIssue": "max-length-violation",
     "visible": true
+  },
+  {
+    "id": "validation-020",
+    "rule": "pattern",
+    "input": "boundary",
+    "expectedIssue": "pattern-violation",
+    "visible": true
   }
 ]
