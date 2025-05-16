@@ -19,5 +19,12 @@
     "delayMs": 1000,
     "maxAttempts": 3,
     "blocksOnConflict": true
+  },
+  {
+    "id": "autosave-021",
+    "strategy": "cancel",
+    "delayMs": 750,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
   }
 ]
