@@ -16,5 +16,11 @@
     "interaction": "save-status",
     "wcag": "3.3.1",
     "expectation": "save-status remains named, keyboard reachable, and observable"
+  },
+  {
+    "id": "a11y-023",
+    "interaction": "validation-error",
+    "wcag": "3.3.1",
+    "expectation": "validation-error remains named, keyboard reachable, and observable"
   }
 ]
