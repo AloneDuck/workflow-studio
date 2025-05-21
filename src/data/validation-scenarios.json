@@ -26,5 +26,12 @@
     "input": "boundary",
     "expectedIssue": "pattern-violation",
     "visible": true
+  },
+  {
+    "id": "validation-026",
+    "rule": "numeric-range",
+    "input": "boundary",
+    "expectedIssue": "numeric-range-violation",
+    "visible": true
   }
 ]
