@@ -26,5 +26,12 @@
     "delayMs": 750,
     "maxAttempts": 3,
     "blocksOnConflict": true
+  },
+  {
+    "id": "autosave-027",
+    "strategy": "flush",
+    "delayMs": 500,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
   }
 ]
