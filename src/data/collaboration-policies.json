@@ -22,5 +22,11 @@
     "resolution": "flag-divergent",
     "baseRevisionRequired": true,
     "auditEvent": "workflow.flag-divergent"
+  },
+  {
+    "id": "collaboration-028",
+    "resolution": "delete-versus-edit",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.delete-versus-edit"
   }
 ]
