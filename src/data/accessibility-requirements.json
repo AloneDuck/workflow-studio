@@ -22,5 +22,11 @@
     "interaction": "validation-error",
     "wcag": "3.3.1",
     "expectation": "validation-error remains named, keyboard reachable, and observable"
+  },
+  {
+    "id": "a11y-029",
+    "interaction": "conflict-dialog",
+    "wcag": "3.3.1",
+    "expectation": "conflict-dialog remains named, keyboard reachable, and observable"
   }
 ]
