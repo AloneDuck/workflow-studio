@@ -28,5 +28,11 @@
     "kind": "text",
     "behavior": "prefill",
     "invariant": "text values prefill without changing stable field identity"
+  },
+  {
+    "id": "field-031",
+    "kind": "text",
+    "behavior": "clear",
+    "invariant": "text values clear without changing stable field identity"
   }
 ]
