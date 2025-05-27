@@ -33,5 +33,12 @@
     "input": "boundary",
     "expectedIssue": "numeric-range-violation",
     "visible": true
+  },
+  {
+    "id": "validation-032",
+    "rule": "visibility-reference",
+    "input": "boundary",
+    "expectedIssue": "visibility-reference-violation",
+    "visible": true
   }
 ]
