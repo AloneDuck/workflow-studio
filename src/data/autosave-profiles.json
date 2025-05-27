@@ -33,5 +33,12 @@
     "delayMs": 500,
     "maxAttempts": 3,
     "blocksOnConflict": true
+  },
+  {
+    "id": "autosave-033",
+    "strategy": "dispose",
+    "delayMs": 250,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
   }
 ]
