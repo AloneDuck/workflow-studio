@@ -28,5 +28,11 @@
     "interaction": "conflict-dialog",
     "wcag": "3.3.1",
     "expectation": "conflict-dialog remains named, keyboard reachable, and observable"
+  },
+  {
+    "id": "a11y-035",
+    "interaction": "live-preview",
+    "wcag": "3.3.1",
+    "expectation": "live-preview remains named, keyboard reachable, and observable"
   }
 ]
