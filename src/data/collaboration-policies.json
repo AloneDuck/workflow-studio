@@ -28,5 +28,11 @@
     "resolution": "delete-versus-edit",
     "baseRevisionRequired": true,
     "auditEvent": "workflow.delete-versus-edit"
+  },
+  {
+    "id": "collaboration-034",
+    "resolution": "same-value",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.same-value"
   }
 ]
