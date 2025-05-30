@@ -34,5 +34,11 @@
     "kind": "text",
     "behavior": "clear",
     "invariant": "text values clear without changing stable field identity"
+  },
+  {
+    "id": "field-037",
+    "kind": "text",
+    "behavior": "serialize",
+    "invariant": "text values serialize without changing stable field identity"
   }
 ]
