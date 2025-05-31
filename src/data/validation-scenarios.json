@@ -40,5 +40,12 @@
     "input": "boundary",
     "expectedIssue": "visibility-reference-violation",
     "visible": true
+  },
+  {
+    "id": "validation-038",
+    "rule": "required",
+    "input": "boundary",
+    "expectedIssue": "required-violation",
+    "visible": true
   }
 ]
