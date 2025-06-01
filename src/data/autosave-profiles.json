@@ -40,5 +40,12 @@
     "delayMs": 250,
     "maxAttempts": 3,
     "blocksOnConflict": true
+  },
+  {
+    "id": "autosave-039",
+    "strategy": "debounce",
+    "delayMs": 1000,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
   }
 ]
