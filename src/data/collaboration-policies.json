@@ -34,5 +34,11 @@
     "resolution": "same-value",
     "baseRevisionRequired": true,
     "auditEvent": "workflow.same-value"
+  },
+  {
+    "id": "collaboration-040",
+    "resolution": "accept-local",
+    "baseRevisionRequired": true,
+    "auditEvent": "workflow.accept-local"
   }
 ]
