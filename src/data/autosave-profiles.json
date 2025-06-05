@@ -47,5 +47,12 @@
     "delayMs": 1000,
     "maxAttempts": 3,
     "blocksOnConflict": true
+  },
+  {
+    "id": "autosave-045",
+    "strategy": "coalesce",
+    "delayMs": 750,
+    "maxAttempts": 3,
+    "blocksOnConflict": true
   }
 ]
