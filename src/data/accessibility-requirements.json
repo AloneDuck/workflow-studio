@@ -40,5 +40,11 @@
     "interaction": "field-selection",
     "wcag": "3.3.1",
     "expectation": "field-selection remains named, keyboard reachable, and observable"
+  },
+  {
+    "id": "a11y-047",
+    "interaction": "field-reorder",
+    "wcag": "3.3.1",
+    "expectation": "field-reorder remains named, keyboard reachable, and observable"
   }
 ]
